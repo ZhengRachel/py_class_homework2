@@ -7,7 +7,6 @@ __author__ = 'Zheng Rachel'
 
 import requests
 import time
-import json
 
 #用来获取时间戳
 def GetTime():
